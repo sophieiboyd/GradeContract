@@ -164,18 +164,18 @@ I, `r params$name`, agree to :
   - Finish Lab 3  by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`
 - [ ] `r advdate(dayone, 4, topic)`
   - Finish Lab 4  by `r startweek`:  `r advdate(dayone, 4, assignment=startweek)`
-  - Finish portfolio piece 1 by `r startweek`:  `r advdate(dayone, 4, assignment=startweek)`
 - [ ] `r advdate(dayone, 5, topic)`
   - Finish Lab 5  by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
-  - Finish portfolio piece 2 by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
+  - Finish portfolio piece 1 by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
 - [ ] `r advdate(dayone, 6, topic)`
   - Finish Lab 6 by `r startweek`:  `r advdate(dayone, 6, assignment=startweek)`
+  - Finish portfolio piece 2 by `r startweek`:  `r advdate(dayone, 6, assignment=startweek)`
   - Schedule a check-in with Mason by `r startweek`:  `r advdate(dayone, 6, assignment=startweek)`
 - [ ] `r advdate(dayone, 7, topic)`
   - Finish Lab 7 by `r startweek`:  `r advdate(dayone, 7, assignment=startweek)`
-  - Finish portfolio piece 3 by `r startweek`:  `r advdate(dayone, 7, assignment=startweek)`
 - [ ] `r advdate(dayone, 8, topic)`
   - Finish Lab 8 by `r startweek`:  `r advdate(dayone, 8, assignment=startweek)`
+  - Finish portfolio piece 3 by `r startweek`:  `r advdate(dayone, 8, assignment=startweek)`
 - [ ] `r advdate(dayone, 9, topic)`
 - [ ] `r advdate(dayone, 10, topic)`
   - Finish Lab 9 by `r startweek`:  `r advdate(dayone, 10, assignment=startweek)`
@@ -190,9 +190,9 @@ I, `r params$name`, agree to :
   - Finish portfolio piece 6 by `r startweek`:  `r advdate(dayone, 13, assignment=startweek)`
 - [ ] `r advdate(dayone, 14, topic)`
   `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",startweek,": ",advdate(dayone, 14, assignment=startweek))`
-  - Finish portfolio pieces 7 and 8 by `r startweek`:  `r advdate(dayone, 14, assignment=startweek)`
+  - Finish portfolio piece 7 by `r startweek`:  `r advdate(dayone, 14, assignment=startweek)`
 - [ ] `r advdate(dayone, 15, topic)`
-  - Finish portfolio piece 9 by `r startweek`:  `r advdate(dayone, 15, assignment=startweek)`
+  - Finish portfolio pieces 8 and 9 by `r startweek`:  `r advdate(dayone, 15, assignment=startweek)`
 - [ ] `r advdate(dayone, 16, topic)`
   - Finish portfolio piece 10 by `r startweek`:  `r advdate(dayone, 16, assignment=startweek)`
 - [ ] Portfolio completion and end-of-semester presentation

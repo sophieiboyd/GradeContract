@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 19 2026
+January 20 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -44,27 +44,27 @@ I, Sophie Boyd, agree to :
 - [ ] Module 04, 02/02 - 02/06 : Data Types and Data Transformations
 
   - Finish Lab 4 by Friday: 02/06
-  - Finish portfolio piece 1 by Friday: 02/06
 
 - [ ] Module 05, 02/09 - 02/13 : Effective Data Visualization
 
   - Finish Lab 5 by Friday: 02/13
-  - Finish portfolio piece 2 by Friday: 02/13
+  - Finish portfolio piece 1 by Friday: 02/13
 
 - [ ] Module 06, 02/16 - 02/20 : Scientific Communication and
   Confounding
 
   - Finish Lab 6 by Friday: 02/20
+  - Finish portfolio piece 2 by Friday: 02/20
   - Schedule a check-in with Mason by Friday: 02/20
 
 - [ ] Module 07, 02/23 - 02/27 : Functions and Automation
 
   - Finish Lab 7 by Friday: 02/27
-  - Finish portfolio piece 3 by Friday: 02/27
 
 - [ ] Module 08, 03/02 - 03/06 : Ethics
 
   - Finish Lab 8 by Friday: 03/06
+  - Finish portfolio piece 3 by Friday: 03/06
 
 - [ ] Module 09, 03/09 - 03/13 : Spring Break
 
@@ -88,11 +88,11 @@ I, Sophie Boyd, agree to :
 
 - [ ] Module 14, 04/13 - 04/17 : NA
 
-  - Finish portfolio pieces 7 and 8 by Friday: 04/17
+  - Finish portfolio piece 7 by Friday: 04/17
 
 - [ ] Module 15, 04/20 - 04/24 : NA
 
-  - Finish portfolio piece 9 by Friday: 04/24
+  - Finish portfolio pieces 8 and 9 by Friday: 04/24
 
 - [ ] Module 16, 04/27 - 05/01 : NA
 
