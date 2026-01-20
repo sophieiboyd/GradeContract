@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 16 2026
+January 19 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -37,48 +37,47 @@ I, Sophie Boyd, agree to :
   - Finish Lab 2 by Friday: 01/23
   - Propose your contract to Mason by Friday: 01/23
 
-- [ ] Module 03, 01/26 - 01/30 : Grammar of data wrangling
+- [ ] Module 03, 01/26 - 01/30 : Welcome to the Tidyverse
 
   - Finish Lab 3 by Friday: 01/30
-  - Finish portfolio piece 1 by Friday: 01/30
 
-- [ ] Module 04, 02/02 - 02/06 : Data types and Data Transformations
+- [ ] Module 04, 02/02 - 02/06 : Data Types and Data Transformations
 
   - Finish Lab 4 by Friday: 02/06
+  - Finish portfolio piece 1 by Friday: 02/06
 
-- [ ] Module 05, 02/09 - 02/13 : Tips for effective data visualization
+- [ ] Module 05, 02/09 - 02/13 : Effective Data Visualization
 
   - Finish Lab 5 by Friday: 02/13
   - Finish portfolio piece 2 by Friday: 02/13
 
-- [ ] Module 06, 02/16 - 02/20 : Scientific studies and confounding
+- [ ] Module 06, 02/16 - 02/20 : Scientific Communication and
+  Confounding
 
   - Finish Lab 6 by Friday: 02/20
   - Schedule a check-in with Mason by Friday: 02/20
 
-- [ ] Module 07, 02/23 - 02/27 : Functions
+- [ ] Module 07, 02/23 - 02/27 : Functions and Automation
 
   - Finish Lab 7 by Friday: 02/27
   - Finish portfolio piece 3 by Friday: 02/27
 
-- [ ] Module 08, 03/02 - 03/06 : Data and Ethics
+- [ ] Module 08, 03/02 - 03/06 : Ethics
 
   - Finish Lab 8 by Friday: 03/06
 
 - [ ] Module 09, 03/09 - 03/13 : Spring Break
 
-  - Spring Break
-
-- [ ] Module 10, 03/16 - 03/20 : Fitting and interpreting models
+- [ ] Module 10, 03/16 - 03/20 : Tidy Models
 
   - Finish Lab 9 by Friday: 03/20
   - Finish portfolio piece 4 by Friday: 03/20
 
-- [ ] Module 11, 03/23 - 03/27 : Prediction and overfitting
+- [ ] Module 11, 03/23 - 03/27 : Overfitting and Cross Validation
 
   - Finish Lab 10 by Friday: 03/27
 
-- [ ] Module 12, 03/30 - 04/03 : Interactive web apps
+- [ ] Module 12, 03/30 - 04/03 : Rshiny
 
   - Finish Lab 11 by Friday: 04/03
   - Finish portfolio piece 5 by Friday: 04/03

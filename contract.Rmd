@@ -162,9 +162,9 @@ I, `r params$name`, agree to :
   - Propose your contract to Mason by `r startweek`:  `r advdate(dayone, 2, assignment=startweek)`
 - [ ]  `r advdate(dayone, 3, topic)`
   - Finish Lab 3  by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`
-  - Finish portfolio piece 1 by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`
 - [ ] `r advdate(dayone, 4, topic)`
   - Finish Lab 4  by `r startweek`:  `r advdate(dayone, 4, assignment=startweek)`
+  - Finish portfolio piece 1 by `r startweek`:  `r advdate(dayone, 4, assignment=startweek)`
 - [ ] `r advdate(dayone, 5, topic)`
   - Finish Lab 5  by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
   - Finish portfolio piece 2 by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
