@@ -1,6 +1,6 @@
 ---
 title: Grading Contract
-date: "`r format(Sys.time(), '%B %d %Y')`"
+date: "1-23-26"
 output: github_document
 params:
   weekonemonday: "2026-01-12"
