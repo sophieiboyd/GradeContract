@@ -57,27 +57,27 @@ I, Sophie Boyd, agree to :
   - Finish portfolio piece 2 by Friday: 02/20
   - Schedule a check-in with Mason by Friday: 02/20
 
-- [ ] Module 07, 02/23 - 02/27 : Web Scraping
+- [ ] Module 07, 02/23 - 02/27 : Ethics
 
   - Finish Lab 7 by Friday: 02/27
 
-- [ ] Module 08, 03/02 - 03/06 : Functions and Automation
+- [ ] Module 08, 03/02 - 03/06 : Tidy Models
 
   - Finish Lab 8 by Friday: 03/06
   - Finish portfolio piece 3 by Friday: 03/06
 
 - [ ] Module 09, 03/09 - 03/13 : Spring Break
 
-- [ ] Module 10, 03/16 - 03/20 : Ethics
+- [ ] Module 10, 03/16 - 03/20 : Overfitting and Cross-Validation
 
   - Finish Lab 9 by Friday: 03/20
   - Finish portfolio piece 4 by Friday: 03/20
 
-- [ ] Module 11, 03/23 - 03/27 : Tidy Models
+- [ ] Module 11, 03/23 - 03/27 : Quantifying Uncertainty
 
   - Finish Lab 10 by Friday: 03/27
 
-- [ ] Module 12, 03/30 - 04/03 : Overfitting and Cross Validation
+- [ ] Module 12, 03/30 - 04/03 : Base R and Simulating Data
 
   - Finish Lab 11 by Friday: 04/03
   - Finish portfolio piece 5 by Friday: 04/03

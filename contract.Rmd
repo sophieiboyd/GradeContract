@@ -124,12 +124,12 @@ topic = c(
   "Data Types and Data Transformations",
   "Effective Data Visualization",
   "Scientific Communication and Confounding",
-  "Web Scraping",
-  "Functions and Automation",
-  "Spring Break",
   "Ethics",
   "Tidy Models",
-  "Overfitting and Cross Validation"
+  "Spring Break",
+  "Overfitting and Cross-Validation",
+  "Quantifying Uncertainty",
+  "Base R and Simulating Data"
 )
 
 ```
