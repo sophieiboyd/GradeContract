@@ -73,16 +73,17 @@ I, Sophie Boyd, agree to :
   - Finish Lab 9 by Friday: 03/20
   - Finish portfolio piece 4 by Friday: 03/20
 
-- [ ] Module 11, 03/23 - 03/27 : Quantifying Uncertainty
+- [ ] Module 11, 03/23 - 03/27 : Base R and Simulating Data
 
   - Finish Lab 10 by Friday: 03/27
 
-- [ ] Module 12, 03/30 - 04/03 : Base R and Simulating Data
+- [ ] Module 12, 03/30 - 04/03 : NA
 
-  - Finish Lab 11 by Friday: 04/03
   - Finish portfolio piece 5 by Friday: 04/03
 
-- [ ] Module 13, 04/06 - 04/10 : NA
+- [ ] Module 13, 04/06 - 04/10 : Quantifying Uncertainty
+
+  - Finish Lab 11 by Friday: 04/10
 
   - Finish portfolio piece 6 by Friday: 04/10
 

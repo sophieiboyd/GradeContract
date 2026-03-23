@@ -128,8 +128,9 @@ topic = c(
   "Tidy Models",
   "Spring Break",
   "Overfitting and Cross-Validation",
-  "Quantifying Uncertainty",
-  "Base R and Simulating Data"
+  "Base R and Simulating Data",
+  "NA",
+  "Quantifying Uncertainty"
 )
 
 ```
@@ -183,9 +184,9 @@ I, `r params$name`, agree to :
 - [ ] `r advdate(dayone, 11, topic)`
   - Finish Lab 10 by `r startweek`:  `r advdate(dayone, 11, assignment=startweek)`
 - [ ] `r advdate(dayone, 12, topic)`
-  `r if(params$labs>=11) paste0(" - Finish Lab 11 by ",startweek,": ",advdate(dayone, 12, assignment=startweek))`
   - Finish portfolio piece 5 by `r startweek`:  `r advdate(dayone, 12, assignment=startweek)`
 - [ ] `r advdate(dayone, 13, topic)`
+  `r if(params$labs>=11) paste0(" - Finish Lab 11 by ",startweek,": ",advdate(dayone, 13, assignment=startweek))`
   `r if(params$labs>=12) paste0(" - Finish Lab 12 by ",startweek,": ",advdate(dayone, 13, assignment=startweek))`
   - Finish portfolio piece 6 by `r startweek`:  `r advdate(dayone, 13, assignment=startweek)`
 - [ ] `r advdate(dayone, 14, topic)`
